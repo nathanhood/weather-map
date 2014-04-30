@@ -1,6 +1,6 @@
-# client-template
+# Weather Map
 
-Serves as a template for client JavaScript applications.
+This is a weather application.
 
 It uses:
 * Jade
@@ -8,3 +8,5 @@ It uses:
 * Grunt
 * JSHint
 * Node.js
+* AmCharts
+* Google Maps
